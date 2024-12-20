@@ -80,7 +80,7 @@ ____________________________________+++++++++++++++_______________++++++++++++++
 _________I((((((((______________)_))))))))))))))_)______________________)______________________
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Babel" />
   </a>
@@ -103,4 +103,3 @@ _________I((((((((______________)_))))))))))))))_)______________________)_______
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   </a>
 </p>
-
