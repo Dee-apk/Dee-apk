@@ -99,7 +99,7 @@
 
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white" alt="Babel" style="font-weight: bold; font-size: 20px;" />
+    <img src="https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white" alt="Babel" style="font-weight: bold; font-size: 40px;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="font-weight: bold; font-size: 20px;" />
