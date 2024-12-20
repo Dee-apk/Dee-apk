@@ -56,8 +56,8 @@ ____________________________________+++++++++++++++_______________++++++++++++++
 
 <h3 align="left">🚀 Fun Facts:</h3>
 <ul>
-  <li>🎨 I enjoy painting and playing guitar.</li>
-  <li>🏞️ I'm a nature enthusiast and love exploring new places.</li>
+  <li>🎨 I enjoy painting and playing Video games.</li>
+  <li>🏞️ I love exploring technologies & learn facts about them new places.</li>
 </ul>
 
 ---
