@@ -34,8 +34,8 @@ ____________________________________+++++++++++++++_______________++++++++++++++
 
 <h3 align="left">🌱 What I'm Learning:</h3>
 <ul>
-  <li>🌐 Expanding knowledge in Web Development, AI, Blockchain</li>
-  <li>🔧 Building Open-source Projects and Creative Applications</li>
+  <li>🌐 Expanding knowledge in Web Development (ReactJS,JS),UI/UX Design & Wordpress </li>
+  <li>🔧 Building Websites for porfolio projects </li>
 </ul>
 
 ---
