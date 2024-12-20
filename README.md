@@ -17,6 +17,8 @@
 
 ---
 
+
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
@@ -42,25 +44,6 @@
   </a>
 </p>
 
-
----
-
-<h3 align="left">🌱 What I'm Learning:</h3>
-<ul>
-  <li>🌐 Expanding knowledge in Web Development (ReactJS,JS),UI/UX Design & Wordpress) </li>
-  <li>🔧 Building Websites for porfolio projects </li>
-</ul>
-
-
-
----
-
-<h3 align="left">🚀 Fun Facts:</h3>
-<ul>
-  <li>🎨 I enjoy painting and playing video games.</li>
-  <li>🏞️ I love exploring technologies & learn facts about them new places.</li>
-</ul>
-
 ---
 
 <h3 align="left">💡 Projects:</h3>
@@ -71,6 +54,26 @@
   <li>
     🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Another Project Name</a> - A short description of another project.
   </li>
+</ul>
+
+
+
+---
+
+<h3 align="left">🌱 What I'm Learning:</h3>
+<ul>
+  <li>🌐 Expanding knowledge in Web Development (ReactJS,JS),UI/UX Design & Wordpress) </li>
+  <li>🔧 Building Websites for portfolio projects </li>
+</ul>
+
+
+
+---
+
+<h3 align="left">🚀 Fun Facts:</h3>
+<ul>
+  <li>🎨 I enjoy painting and playing video games.</li>
+  <li>🏞️ I love exploring technologies & learn facts about them new places.</li>
 </ul>
 
 ---
