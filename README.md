@@ -5,6 +5,7 @@
 
 <h3 align="left">📫 How to Reach Me:</h3>
 <ul>
+  <li>
   <a href="https://linkedin.com/in/deepak-apk/" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -15,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
-
+</li>
   <li>
     📧 Email: deepakyadav.code@gmail.com
   </li>
