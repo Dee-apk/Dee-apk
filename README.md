@@ -32,16 +32,6 @@ ____________________________________+++++++++++++++_______________++++++++++++++
 
 ---
 
-<h3 align="left">📈 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak-apk&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-apk&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 <h3 align="left">🌱 What I'm Learning:</h3>
 <ul>
   <li>🌐 Expanding knowledge in Web Development, AI, Blockchain</li>
