@@ -99,24 +99,24 @@
 
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white" alt="Babel" style="font-weight: bold; font-size: 16px;" />
+    <img src="https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white" alt="Babel" style="font-weight: bold; font-size: 20px;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="font-weight: bold; font-size: 16px;" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="font-weight: bold; font-size: 20px;" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" style="font-weight: bold; font-size: 16px;" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" style="font-weight: bold; font-size: 20px;" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="font-weight: bold; font-size: 16px;" />
+    <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="font-weight: bold; font-size: 20px;" />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" style="font-weight: bold; font-size: 16px;" />
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" style="font-weight: bold; font-size: 20px;" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" style="font-weight: bold; font-size: 16px;" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" style="font-weight: bold; font-size: 20px;" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" style="font-weight: bold; font-size: 16px;" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" style="font-weight: bold; font-size: 20px;" />
   </a>
 </p>
