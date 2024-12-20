@@ -13,10 +13,9 @@
   <a href="https://www.instagram.com/your-instagram-handle/" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" style="width: auto; height: 20px; font-family: 'Poppins', sans-serif;" />
   </a>
- <a href="https://x.com/your-x-handle" target="blank">
-    <img src="https://img.shields.io/badge/-X-000000?logo=twitter&logoColor=white" alt="X" style="width: auto; height: 20px; font-family: 'Poppins', sans-serif;" />
-</a>
-
+ <a href="https://twitter.com/your-twitter-handle" target="blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" style="width: auto; height: 20px; font-family: 'Poppins', sans-serif;" />
+  </a>
 
 </li>
 <li>
