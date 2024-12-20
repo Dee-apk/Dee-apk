@@ -48,7 +48,7 @@ ____________________________________+++++++++++++++_______________++++++++++++++
     </a>
   </li>
   <li>
-    📧 Email: deepak.yadav@example.com
+    📧 Email: deepakyadav.code@gmail.com
   </li>
 </ul>
 
@@ -56,7 +56,7 @@ ____________________________________+++++++++++++++_______________++++++++++++++
 
 <h3 align="left">🚀 Fun Facts:</h3>
 <ul>
-  <li>🎨 I enjoy painting and playing Video games.</li>
+  <li>🎨 I enjoy painting and playing video games.</li>
   <li>🏞️ I love exploring technologies & learn facts about them new places.</li>
 </ul>
 
