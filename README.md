@@ -95,13 +95,13 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/deepak-apk/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-deepak-apk" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/your-instagram-handle/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-your-instagram-handle" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter-your-twitter-handle" />
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
