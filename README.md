@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" style="width: auto; height: 25px; font-family: 'Poppins', sans-serif;" />
 </a>
 <a href="https://www.w3.org/html/" target="blank">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" style="width: auto; height: 35px; font-family: 'Poppins', sans-serif;" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" style="width: auto; height: 25px; font-family: 'Poppins', sans-serif;" />
 </a>
 </p>
 
