@@ -5,11 +5,19 @@
 
 <h3 align="left">📫 How to Reach Me:</h3>
 <ul>
-  <li>
-    <a href="https://linkedin.com" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" alt="LinkedIn">
-    </a>
-  </li>
+  <h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/deepak-apk/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/your-instagram-handle/" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
   <li>
     📧 Email: deepakyadav.code@gmail.com
   </li>
@@ -92,16 +100,4 @@
 
 
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/deepak-apk/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/your-instagram-handle/" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
 
