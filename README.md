@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="width: auto; height: 28px; font-family: 'Poppins', sans-serif;" />
 </a>
 <a href="https://reactjs.org/" target="blank">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" style="width: auto; height: 25px; font-family: 'Poppins', sans-serif;" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" style="width: auto; height: 26px; font-family: 'Poppins', sans-serif;" />
 </a>
 <a href="https://babeljs.io/" target="blank">
   <img src="https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white" alt="Babel" style="width: auto; height: 25px; font-family: 'Poppins', sans-serif;" />
