@@ -3,6 +3,20 @@
 
 ---
 
+<h3 align="left">📫 How to Reach Me:</h3>
+<ul>
+  <li>
+    <a href="https://linkedin.com/in/deepak-apk" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" alt="LinkedIn">
+    </a>
+  </li>
+  <li>
+    📧 Email: deepakyadav.code@gmail.com
+  </li>
+</ul>
+
+---
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
@@ -37,19 +51,7 @@
   <li>🔧 Building Websites for porfolio projects </li>
 </ul>
 
----
 
-<h3 align="left">📫 How to Reach Me:</h3>
-<ul>
-  <li>
-    <a href="https://linkedin.com/in/deepak-apk" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" alt="LinkedIn">
-    </a>
-  </li>
-  <li>
-    📧 Email: deepakyadav.code@gmail.com
-  </li>
-</ul>
 
 ---
 
