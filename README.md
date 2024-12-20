@@ -6,7 +6,7 @@
 <h3 align="left">📫 How to Reach Me:</h3>
 <ul>
   <li>
-    <a href="https://linkedin.com/in/deepak-apk" target="_blank">
+    <a href="https://linkedin.com" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" alt="LinkedIn">
     </a>
   </li>
