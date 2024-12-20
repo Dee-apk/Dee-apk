@@ -91,15 +91,17 @@
 
 
 
+
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/deepak-apk/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-deepak-apk" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-deepak-apk" />
   </a>
   <a href="https://www.instagram.com/your-instagram-handle/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-your-instagram-handle" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-your-instagram-handle" />
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter-your-twitter-handle" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter-your-twitter-handle" />
   </a>
 </p>
+
