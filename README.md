@@ -8,13 +8,13 @@
   <p>
   <li>
   <a href="https://linkedin.com/in/deepak-apk/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: auto; height: 28px; font-family: 'Poppins', sans-serif;"/>
   </a>
   <a href="https://www.instagram.com/your-instagram-handle/" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" style="width: auto; height: 28px; font-family: 'Poppins', sans-serif;" />
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" style="width: auto; height: 28px; font-family: 'Poppins', sans-serif;" />
   </a>
 
 </li>
