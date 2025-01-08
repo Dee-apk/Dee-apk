@@ -68,10 +68,6 @@
   <li>
     🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Another Project Name</a> - A short description of another project.
   </li>
-  <li>
-    🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Another Project Name</a> - A short description of another project.
-  </li>
-  
 </ul>
 
 
