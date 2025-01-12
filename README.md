@@ -87,7 +87,7 @@
 <h3 align="left">🚀 Fun Facts:</h3>
 <ul>
   <li>🎨 I enjoy painting and playing video games.</li>
-  <li>🏞️ I love exploring technologies & learn facts about them new places.</li>
+  <li>🏞️ I love exploring technologies & learn facts about them.</li>
 </ul>
 
 ---
