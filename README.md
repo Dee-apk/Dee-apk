@@ -76,7 +76,7 @@
     <!-- Jewelry E-commerce Project -->
     <div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
         <h3>
-            <a href="https://github.com/deepak-apk/jewelry-ecommerce" target="_blank">Jewelry E-commerce</a>
+            <a href="https://github.com/Dee-apk/hostingphp" target="_blank">Jewelry E-commerce</a>
         </h3>
         <!-- Badges -->
         <div>
@@ -140,7 +140,7 @@
 <!-- Cat and Dog Classifier Project -->
 <div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
     <h3>
-        <a href="https://github.com/deepak-apk/project1" target="_blank">Cat and Dog Classifier</a>
+        <a href="https://github.com/Dee-apk/Animal-classifier-hosted" target="_blank">Cat and Dog Classifier</a>
     </h3>
     <!-- Badges -->
     <div>
