@@ -72,18 +72,18 @@
 
 
 <li><ul>
-            <li><strong>Tech Stack</strong></li>
+            
             <li><strong>Language & Framework</strong> Backend: Laravel (PHP)
 Frontend: Blade templates, Tailwind CSS</li>
-            <li><strong>API</strong> API: OpenWeather API</li>
-            <li><strong>Database</strong> MySQL</ul>li>
-            <li><strong>Featres</strong> 
+            <li><strong>API:</strong>OpenWeather API</li>
+            <li><strong>Database:</strong> MySQL</ul>li>
+            <li><strong>Features:</strong> 
               <ul>
                 <li>
                  <li>Fetch real-time weather data
                 </li>
                  <li>User-friendly interface</li>
-                API error handling for invalid inputs</li>
+                <li>API error handling for invalid inputs</li>
               </ul>
               
             
