@@ -78,13 +78,18 @@
     - User-friendly interface
     - API error handling for invalid inputs
 
+---
 
-<ul>
-  <li>
-    🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Another Project Name</a> - A short description of another project.
-  </li>
-</ul>
+<a href="https://github.com/deepak-apk/project1" target="_blank">Cat and Dog Classifier</a> - A deep learning model that accurately classifies images of cats and dogs with 83.7% accuracy using TensorFlow and Keras. The model employs a Convolutional Neural Network (CNN) to process image data.
 
+- <strong>Technologies Used:</strong> 
+    - TensorFlow & Keras: For model development and training.
+    - ImageDataGenerator: Real-time image augmentation for enhancing dataset diversity.
+    - Flask: A lightweight web interface for uploading images and receiving predictions.
+- <strong>Features:</strong>
+    - High Accuracy: 83.7% accuracy on test data.
+    - Real-Time Predictions: Instant predictions for uploaded images.
+    - Data Augmentation: Improved generalization via augmentation techniques.
 
 
 
