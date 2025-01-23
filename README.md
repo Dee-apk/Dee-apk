@@ -103,7 +103,7 @@
     <!-- Weather App Project -->
     <div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
         <h3>
-            <a href="https://github.com/deepak-apk/weather-app" target="_blank">Weather App</a>
+            <a href="https://github.com/Dee-apk/PHP-Laravel-app-weather-" target="_blank">Weather App</a>
         </h3>
         <!-- Badges -->
         <div>
