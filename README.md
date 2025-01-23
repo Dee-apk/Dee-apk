@@ -69,11 +69,9 @@
   </li>
   <li>
     🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Another Project Name</a> A simple weather application built with Laravel, allowing users to check real-time weather for any city or country using the OpenWeather API. The app features a clean UI and provides key weather details like temperature, humidity, and conditions.
-
-
 <li><ul>
             
-            <li><strong>Language & Framework</strong> Backend: Laravel (PHP)
+            <li><strong>Language & Framework</strong> Backend: Laravel (PHP)</li>
 Frontend: Blade templates, Tailwind CSS</li>
             <li><strong>API:</strong>OpenWeather API</li>
             <li><strong>Database:</strong> MySQL</ul>li>
@@ -87,7 +85,7 @@ Frontend: Blade templates, Tailwind CSS</li>
               </ul>
               
             
-        </ul>
+        
   </li>
 
   </li>
