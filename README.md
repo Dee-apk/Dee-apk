@@ -140,7 +140,7 @@
 <!-- Cat and Dog Classifier Project -->
 <div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
     <h3>
-        <a href="https://github.com/Dee-apk/Animal-classifier-hosted" target="_blank">Cat and Dog Classifier</a>
+        <a href="https://github.com/Dee-apk/Animal-classifier-hosted" target="_blank">Animal Classifier AI</a>
     </h3>
     <!-- Badges -->
     <div>
