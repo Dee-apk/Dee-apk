@@ -50,6 +50,14 @@
 <a href="https://www.w3.org/html/" target="blank">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" style="width: auto; height: 25px; font-family: 'Poppins', sans-serif;" />
 </a>
+<a href="https://laravel.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Laravel-FE7A16?logo=laravel&logoColor=white" alt="Laravel" style="width: auto; height: 28px; font-family: 'Poppins', sans-serif;" />
+</a>
+
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP" style="width: auto; height: 28px; font-family: 'Poppins', sans-serif;" />
+</a>
+
 </p>
 
 
@@ -167,7 +175,7 @@
 
 <h3 align="left">🌱 What I'm Learning:</h3>
 <ul>
-  <li>🌐 Expanding knowledge in Web Development (ReactJS,JS),UI/UX Design & Wordpress) </li>
+  <li>🌐 Expanding knowledge in Web Development Docker ,(ReactJS,JS),UI/UX Design & Wordpress) </li>
   <li>🔧 Building Websites for portfolio projects </li>
 </ul>
 
