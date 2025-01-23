@@ -58,8 +58,8 @@
 
 <a href="https://github.com/deepak-apk/project1" target="_blank">Jewelry E-commerce</a> - A full-featured e-commerce application built using Laravel and TailwindCSS. It includes features like:
 
-- <img src="https://img.icons8.com/ios/50/000000/laravel.png" alt="Laravel Logo" width="20" /> **User-Friendly Interface:** Responsive and modern design using TailwindCSS.
-- <img src="https://img.icons8.com/ios/50/000000/tailwindcss.png" alt="TailwindCSS Logo" width="20" /> **Order Management:** Admin and user panels for managing orders effectively.
+- <img src="https://img.icons8.com/ios/50/000000/laravel.png" alt="Laravel" width="20" /> **User-Friendly Interface:** Responsive and modern design using TailwindCSS.
+- <img src="https://img.icons8.com/ios/50/000000/tailwindcss.png" alt="TailwindCSS" width="20" /> **Order Management:** Admin and user panels for managing orders effectively.
 - **Secure Authentication:** Robust login and registration system for users.
 - **Dynamic Cart System:** Add, update, and remove items with ease.
 - **Database Integration:** MySQL for managing product, user, and order data.
@@ -69,8 +69,8 @@
 <a href="https://github.com/deepak-apk/project2" target="_blank">Weather App</a> - A simple weather application built with Laravel, allowing users to check real-time weather for any city or country using the OpenWeather API. The app features a clean UI and provides key weather details like temperature, humidity, and conditions.
 
 - **Language & Framework:**
-    - <img src="https://img.icons8.com/ios/50/000000/laravel.png" alt="Laravel Logo" width="20" /> Backend: Laravel (PHP)
-    - <img src="https://img.icons8.com/ios/50/000000/tailwindcss.png" alt="TailwindCSS Logo" width="20" /> Frontend: Blade templates, Tailwind CSS
+    - <img src="https://img.icons8.com/ios/50/000000/laravel.png" alt="Laravel" width="20" /> Backend: Laravel (PHP)
+    - <img src="https://img.icons8.com/ios/50/000000/tailwindcss.png" alt="TailwindCSS" width="20" /> Frontend: Blade templates, Tailwind CSS
 - **API:** OpenWeather API
 - **Database:** MySQL
 - **Features:**
@@ -83,14 +83,12 @@
 <a href="https://github.com/deepak-apk/project3" target="_blank">Cat and Dog Classifier</a> - A deep learning model that accurately classifies images of cats and dogs with 83.7% accuracy using TensorFlow and Keras. The model employs a Convolutional Neural Network (CNN) to process image data.
 
 - <strong>Technologies Used:</strong>
-    - <img src="https://img.icons8.com/ios/50/000000/tensorflow.png" alt="TensorFlow Logo" width="20" /> TensorFlow & Keras: For model development and training.
-    - <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python Logo" width="20" /> Flask: A lightweight web interface for uploading images and receiving predictions.
+    - <img src="https://img.icons8.com/ios/50/000000/tensorflow.png" alt="TensorFlow" width="20" /> TensorFlow & Keras: For model development and training.
+    - <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Flask" width="20" /> Flask: A lightweight web interface for uploading images and receiving predictions.
 - <strong>Features:</strong>
     - High Accuracy: 83.7% accuracy on test data.
     - Real-Time Predictions: Instant predictions for uploaded images.
     - Data Augmentation: Improved generalization via augmentation techniques.
-
-
 
 
 
