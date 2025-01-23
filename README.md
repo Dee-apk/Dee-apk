@@ -57,14 +57,16 @@
 <h3 align="left">💡 Projects:</h3>
 <ul>
   <li>
-    🔗 <a href="https://github.com/deepak-apk/project1" target="_blank">Jewllery ecommerce</a> - a full-featured e-commerce application built using Laravel and TailwindCSS. It includes features like:
+    🔗 <a href="https://github.com/deepak-apk/project1" target="_blank">Jewllery ecommerce</a> - A full-featured e-commerce application built using Laravel and TailwindCSS. It includes features like:
 
-User-friendly Interface: TailwindCSS for responsive design.
-Order Management: Admin and user panels for managing orders.
-Authentication: Secure login and registration system.
-Dynamic Cart System: Add, update, and remove items.
-Database Integration: MySQL for storing product, user, and order details.
-Deployment Ready: Optimized for hosting on platforms like Railway.
+ <li><ul>
+            <li><strong>User-Friendly Interface:</strong> Responsive and modern design using TailwindCSS.</li>
+            <li><strong>Order Management:</strong> Admin and user panels for managing orders effectively.</li>
+            <li><strong>Secure Authentication:</strong> Robust login and registration system for users.</li>
+            <li><strong>Dynamic Cart System:</strong> Add, update, and remove items with ease.</li>
+            <li><strong>Database Integration:</strong> MySQL for managing product, user, and order data.</li>
+            <li><strong>Deployment Ready:</strong> Optimized for platforms like Railway.</li>
+        </ul>
   </li>
   <li>
     🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Another Project Name</a> - A short description of another project.
