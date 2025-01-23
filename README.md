@@ -65,11 +65,35 @@
             <li><strong>Secure Authentication:</strong> Robust login and registration system for users.</li>
             <li><strong>Dynamic Cart System:</strong> Add, update, and remove items with ease.</li>
             <li><strong>Database Integration:</strong> MySQL for managing product, user, and order data.</li>
-            <li><strong>Deployment Ready:</strong> Optimized for platforms like Railway.</li>
         </ul>
   </li>
   <li>
-    🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Another Project Name</a> - A short description of another project.
+    🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Another Project Name</a> A simple weather application built with Laravel, allowing users to check real-time weather for any city or country using the OpenWeather API. The app features a clean UI and provides key weather details like temperature, humidity, and conditions.
+
+Tech Stack
+Backend: Laravel (PHP)
+Frontend: Blade templates, Tailwind CSS
+API: OpenWeather API
+Database: MySQL (optional)
+Version Control: Git and GitHub
+Features
+Fetch real-time weather data
+User-friendly interface
+API error handling for invalid inputs
+<li><ul>
+            <li><strong>User-Friendly Interface:</strong> Tech Stack.</li>
+            <li><strong>Order Management:</strong> Backend: Laravel (PHP)
+Frontend: Blade templates, Tailwind CSS</li>
+            <li><strong>Secure Authentication:</strong> API: OpenWeather API
+Database: MySQL (optional)</li>
+            <li><strong>Dynamic Cart System:</strong> Features
+Fetch real-time weather data
+User-friendly interface
+API error handling for invalid inputs</li>
+            
+        </ul>
+  </li>
+
   </li>
   <li>
     🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Another Project Name</a> - A short description of another project.
