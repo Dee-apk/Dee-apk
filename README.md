@@ -80,16 +80,28 @@
 
 ---
 
-<a href="https://github.com/deepak-apk/project1" target="_blank">Cat and Dog Classifier</a> - A deep learning model that accurately classifies images of cats and dogs with 83.7% accuracy using TensorFlow and Keras. The model employs a Convolutional Neural Network (CNN) to process image data.
+<a href="https://github.com/deepak-apk/project1" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Cat%20and%20Dog%20Classifier-blue" alt="Project">
+</a>
 
-- <strong>Technologies Used:</strong> 
-    - TensorFlow & Keras: For model development and training.
-    - ImageDataGenerator: Real-time image augmentation for enhancing dataset diversity.
-    - Flask: A lightweight web interface for uploading images and receiving predictions.
-- <strong>Features:</strong>
-    - High Accuracy: 83.7% accuracy on test data.
-    - Real-Time Predictions: Instant predictions for uploaded images.
-    - Data Augmentation: Improved generalization via augmentation techniques.   add logos of known technology
+<h2><a href="https://github.com/deepak-apk/project1" target="_blank">Cat and Dog Classifier</a></h2>
+<p>A deep learning model that accurately classifies images of cats and dogs with 83.7% accuracy using TensorFlow and Keras. The model employs a Convolutional Neural Network (CNN) to process image data.</p>
+
+<h3><strong>Technologies Used:</strong></h3>
+<ul>
+    <li><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Logo"/> TensorFlow & Keras: For model development and training.</li>
+    <li><img src="https://img.shields.io/badge/ImageDataGenerator-%23FF9800.svg?style=for-the-badge" alt="ImageDataGenerator Logo"/> ImageDataGenerator: Real-time image augmentation for enhancing dataset diversity.</li>
+    <li><img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Logo"/> Flask: A lightweight web interface for uploading images and receiving predictions.</li>
+    <li><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo"/> Python: For overall project implementation.</li>
+    <li><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Logo"/> Pandas: For data manipulation and preprocessing.</li>
+</ul>
+
+<h3><strong>Features:</strong></h3>
+<ul>
+    <li>High Accuracy: 83.7% accuracy on test data.</li>
+    <li>Real-Time Predictions: Instant predictions for uploaded images.</li>
+    <li>Data Augmentation: Improved generalization via augmentation techniques.</li>
+</ul>
 
 ---
 
