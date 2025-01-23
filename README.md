@@ -52,6 +52,98 @@
 </a>
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>💡 Projects:</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <!-- Jewelry E-commerce Project -->
+    <div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
+        <h3><a href="https://github.com/deepak-apk/jewelry-ecommerce" target="_blank">Jewelry E-commerce</a></h3>
+        <img src="https://via.placeholder.com/300x200?text=Jewelry+E-commerce" alt="Jewelry E-commerce" style="width: 100%; height: auto;">
+        <p>A full-featured e-commerce application built using Laravel and TailwindCSS. It includes features like:</p>
+        <ul>
+            <li>User-Friendly Interface: Responsive and modern design using TailwindCSS.</li>
+            <li>Order Management: Admin and user panels for managing orders effectively.</li>
+            <li>Secure Authentication: Robust login and registration system for users.</li>
+            <li>Dynamic Cart System: Add, update, and remove items with ease.</li>
+            <li>Database Integration: MySQL for managing product, user, and order data.</li>
+        </ul>
+    </div>
+
+    <!-- Weather App Project -->
+    <div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
+        <h3><a href="https://github.com/deepak-apk/weather-app" target="_blank">Weather App</a></h3>
+        <img src="https://via.placeholder.com/300x200?text=Weather+App" alt="Weather App" style="width: 100%; height: auto;">
+        <p>A simple weather application built with Laravel, allowing users to check real-time weather for any city or country using the OpenWeather API. The app features a clean UI and provides key weather details like temperature, humidity, and conditions.</p>
+        <h4><strong>Language & Framework:</strong></h4>
+        <ul>
+            <li>Backend: Laravel (PHP)</li>
+            <li>Frontend: Blade templates, Tailwind CSS</li>
+            <li>API: OpenWeather API</li>
+            <li>Database: MySQL</li>
+        </ul>
+        <h4><strong>Features:</strong></h4>
+        <ul>
+            <li>Fetch real-time weather data</li>
+            <li>User-friendly interface</li>
+            <li>API error handling for invalid inputs</li>
+        </ul>
+    </div>
+</div>
+
+<!-- Cat and Dog Classifier Project -->
+<div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
+    <h3><a href="https://github.com/deepak-apk/project1" target="_blank">Cat and Dog Classifier</a></h3>
+    <img src="https://via.placeholder.com/300x200?text=Cat+and+Dog+Classifier" alt="Cat and Dog Classifier" style="width: 100%; height: auto;">
+    <p>A deep learning model that accurately classifies images of cats and dogs with 83.7% accuracy using TensorFlow and Keras. The model employs a Convolutional Neural Network (CNN) to process image data.</p>
+    <h4><strong>Technologies Used:</strong></h4>
+    <ul>
+        <li><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Logo"/> TensorFlow & Keras: For model development and training.</li>
+        <li><img src="https://img.shields.io/badge/ImageDataGenerator-%23FF9800.svg?style=for-the-badge" alt="ImageDataGenerator Logo"/> ImageDataGenerator: Real-time image augmentation for enhancing dataset diversity.</li>
+        <li><img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Logo"/> Flask: A lightweight web interface for uploading images and receiving predictions.</li>
+        <li><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo"/> Python: For overall project implementation.</li>
+        <li><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Logo"/> Pandas: For data manipulation and preprocessing.</li>
+    </ul>
+    <h4><strong>Features:</strong></h4>
+    <ul>
+        <li>High Accuracy: 83.7% accuracy on test data.</li>
+        <li>Real-Time Predictions: Instant predictions for uploaded images.</li>
+        <li>Data Augmentation: Improved generalization via augmentation techniques.</li>
+    </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 <h3 align="left">💡 Projects:</h3>
