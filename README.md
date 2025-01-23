@@ -82,7 +82,6 @@
                 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Logo"/>
             </a>
         </div>
-        <img src="https://via.placeholder.com/300x200?text=Jewelry+E-commerce" alt="Jewelry E-commerce" style="width: 100%; height: auto;">
         <p>A full-featured e-commerce application built using Laravel and TailwindCSS. It includes features like:</p>
         <ul>
             <li><strong>User-Friendly Interface:</strong> Responsive and modern design using TailwindCSS.</li>
@@ -113,7 +112,6 @@
                 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Logo"/>
             </a>
         </div>
-        <img src="https://via.placeholder.com/300x200?text=Weather+App" alt="Weather App" style="width: 100%; height: auto;">
         <p>A simple weather application built with Laravel, allowing users to check real-time weather for any city or country using the OpenWeather API. The app features a clean UI and provides key weather details like temperature, humidity, and conditions.</p>
         <h4><strong>Language & Framework:</strong></h4>
         <ul>
@@ -148,7 +146,6 @@
             <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Logo"/>
         </a>
     </div>
-    <img src="https://via.placeholder.com/300x200?text=Cat+and+Dog+Classifier" alt="Cat and Dog Classifier" style="width: 100%; height: auto;">
     <p>A deep learning model that accurately classifies images of cats and dogs with 83.7% accuracy using TensorFlow and Keras. The model employs a Convolutional Neural Network (CNN) to process image data.</p>
     <h4><strong>Technologies Used:</strong></h4>
     <ul>
