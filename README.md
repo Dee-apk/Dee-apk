@@ -99,6 +99,44 @@
 
 
 
+
+
+
+
+
+<a href="https://github.com/deepak-apk/project1" target="_blank">Jewelry E-commerce</a> - A full-featured e-commerce application built using Laravel and TailwindCSS. It includes features like:
+
+- **User-Friendly Interface:** Responsive and modern design using TailwindCSS.
+- **Order Management:** Admin and user panels for managing orders effectively.
+- **Secure Authentication:** Robust login and registration system for users.
+- **Dynamic Cart System:** Add, update, and remove items with ease.
+- **Database Integration:** MySQL for managing product, user, and order data.
+
+---
+
+<a href="https://github.com/deepak-apk/project2" target="_blank">Weather App</a> - A simple weather application built with Laravel, allowing users to check real-time weather for any city or country using the OpenWeather API. The app features a clean UI and provides key weather details like temperature, humidity, and conditions.
+
+- **Language & Framework:** 
+    - Backend: Laravel (PHP)
+    - Frontend: Blade templates, Tailwind CSS
+- **API:** OpenWeather API
+- **Database:** MySQL
+- **Features:**
+    - Fetch real-time weather data
+    - User-friendly interface
+    - API error handling for invalid inputs
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 <h3 align="left">🌱 What I'm Learning:</h3>
