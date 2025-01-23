@@ -73,14 +73,19 @@
 
 <li><ul>
             <li><strong>Tech Stack</strong></li>
-            <li><strong>Order Management:</strong> Backend: Laravel (PHP)
+            <li><strong>Language & Framework</strong> Backend: Laravel (PHP)
 Frontend: Blade templates, Tailwind CSS</li>
-            <li><strong>Secure Authentication:</strong> API: OpenWeather API
-Database: MySQL (optional)</li>
-            <li><strong>Dynamic Cart System:</strong> Features
-Fetch real-time weather data
-User-friendly interface
-API error handling for invalid inputs</li>
+            <li><strong>API</strong> API: OpenWeather API</li>
+            <li><strong>Database</strong> MySQL</ul>li>
+            <li><strong>Featres</strong> 
+              <ul>
+                <li>
+                 <li>Fetch real-time weather data
+                </li>
+                 <li>User-friendly interface</li>
+                API error handling for invalid inputs</li>
+              </ul>
+              
             
         </ul>
   </li>
