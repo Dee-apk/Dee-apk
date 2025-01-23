@@ -68,7 +68,7 @@
         </ul>
   </li>
   <li>
-    🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Another Project Name</a> A simple weather application built with Laravel, allowing users to check real-time weather for any city or country using the OpenWeather API. The app features a clean UI and provides key weather details like temperature, humidity, and conditions.
+    🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Weather App</a> A simple weather application built with Laravel, allowing users to check real-time weather for any city or country using the OpenWeather API. The app features a clean UI and provides key weather details like temperature, humidity, and conditions.
 <ul>
     <li><strong>Language & Framework</strong>: 
         <ul>
