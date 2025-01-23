@@ -56,18 +56,6 @@
 
 <h3 align="left">💡 Projects:</h3>
 
-  <li>
-    🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Another Project Name</a> - A short description of another project.
-  </li>
-</ul>
-
-
-
-
-
-
-
-
 <a href="https://github.com/deepak-apk/project1" target="_blank">Jewelry E-commerce</a> - A full-featured e-commerce application built using Laravel and TailwindCSS. It includes features like:
 
 - **User-Friendly Interface:** Responsive and modern design using TailwindCSS.
@@ -91,11 +79,11 @@
     - API error handling for invalid inputs
 
 
-
-
-
-
-
+<ul>
+  <li>
+    🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Another Project Name</a> - A short description of another project.
+  </li>
+</ul>
 
 
 
