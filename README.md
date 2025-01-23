@@ -55,43 +55,7 @@
 ---
 
 <h3 align="left">💡 Projects:</h3>
-<ul>
-  <li>
-    🔗 <a href="https://github.com/deepak-apk/project1" target="_blank">Jewllery ecommerce</a> - A full-featured e-commerce application built using Laravel and TailwindCSS. It includes features like:
 
- <li><ul>
-            <li><strong>User-Friendly Interface:</strong> Responsive and modern design using TailwindCSS.</li>
-            <li><strong>Order Management:</strong> Admin and user panels for managing orders effectively.</li>
-            <li><strong>Secure Authentication:</strong> Robust login and registration system for users.</li>
-            <li><strong>Dynamic Cart System:</strong> Add, update, and remove items with ease.</li>
-            <li><strong>Database Integration:</strong> MySQL for managing product, user, and order data.</li>
-        </ul>
-  </li>
-  <li>
-    🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Weather App</a> A simple weather application built with Laravel, allowing users to check real-time weather for any city or country using the OpenWeather API. The app features a clean UI and provides key weather details like temperature, humidity, and conditions.
-<ul>
-    <li><strong>Language & Framework</strong>: 
-        <ul>
-            <li>Backend: Laravel (PHP)</li>
-            <li>Frontend: Blade templates, Tailwind CSS</li>
-        </ul>
-    </li>
-    <li><strong>API</strong>: OpenWeather API</li>
-    <li><strong>Database</strong>: MySQL</li>
-    <li><strong>Features</strong>: 
-        <ul>
-            <li>Fetch real-time weather data</li>
-            <li>User-friendly interface</li>
-            <li>API error handling for invalid inputs</li>
-        </ul>
-    </li>
-</ul>
-
-
-  </li>
-  <li>
-    🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Another Project Name</a> - A short description of another project.
-  </li>
   <li>
     🔗 <a href="https://github.com/deepak-apk/project2" target="_blank">Another Project Name</a> - A short description of another project.
   </li>
