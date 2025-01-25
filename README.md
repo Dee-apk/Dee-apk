@@ -76,7 +76,7 @@
     <!-- Jewelry E-commerce Project -->
     <div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
         <h3>
-            <a href="https://github.com/Dee-apk/hostingphp" target="_blank">Jewelry E-commerce</a>
+            <a href="https://github.com/Dee-apk/hostingphp" target="_blank">Jewellry E-commerce</a>
         </h3>
         <!-- Badges -->
         <div>
