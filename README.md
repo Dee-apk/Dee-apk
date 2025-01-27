@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">A passionate developer</h3>
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=Dee-apk
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Most Used Languages" />
+</div>
+
+
+
 ---
 
 <h3 align="left">📫 How to Reach Me:</h3>
