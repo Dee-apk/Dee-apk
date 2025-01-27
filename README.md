@@ -1,10 +1,79 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">A passionate developer</h3>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Dee-apk
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Most Used Languages" />
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Most Used Languages</title>
+</head>
+<body>
+  <h1>Most Used Languages</h1>
+  <div id="language-card"></div>
+
+  <script>
+    async function fetchMostUsedLanguages(username) {
+      const response = await fetch(`https://api.github.com/users/${Dee-apk}/repos`);
+      const repos = await response.json();
+
+      const languageStats = {};
+
+      // Fetch languages for each repository
+      for (const repo of repos) {
+        const langResponse = await fetch(repo.languages_url);
+        const langData = await langResponse.json();
+
+        for (const [language, value] of Object.entries(langData)) {
+          languageStats[language] = (languageStats[language] || 0) + value;
+        }
+      }
+
+      // Sort languages by usage
+      const sortedLanguages = Object.entries(languageStats)
+        .sort(([, a], [, b]) => b - a)
+        .slice(0, 5); // Top 5 languages
+
+      // Display languages
+      const languageCard = document.getElementById('language-card');
+      sortedLanguages.forEach(([language, value]) => {
+        const languageElement = document.createElement('div');
+        languageElement.textContent = `${language}: ${value}`;
+        languageCard.appendChild(languageElement);
+      });
+    }
+
+    // Replace 'YOUR_USERNAME' with your GitHub username
+    fetchMostUsedLanguages('YOUR_USERNAME');
+  </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
