@@ -3,36 +3,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-## 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dee-apk&layout=compact&theme=radical)
-
-
-
-## 📈 GitHub Stats
-
-![Dee-apk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dee-apk&show_icons=true&theme=radical)
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 <h3 align="left">📫 How to Reach Me:</h3>
