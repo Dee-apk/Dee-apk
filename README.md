@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">A passionate developer</h3>
-<p>https://deepakteam.netlify.app/<p>
+<p align="center">Portfolio website-https://deepakteam.netlify.app/<p>
 
 
 
