@@ -75,6 +75,10 @@
 
 <h2>💡 Projects:</h2>
 
+
+
+<!---------------------------------------------------------ECOMMERCE------------------------------------------------------>
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <!-- Jewelry E-commerce Project -->
     <div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
@@ -102,8 +106,8 @@
             <li><strong>Database Integration:</strong> MySQL for managing product, user, and order data.</li>
         </ul>
     </div>
-<div>
-    <!-- Weather App Project -->
+<div>    
+<!----------------------------------------------------- Weather App Project ---------------------------------------------->
     <div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
         <h3>
             <a href="https://github.com/Dee-apk/PHP-Laravel-app-weather-" target="_blank">Weather App</a>
@@ -140,6 +144,7 @@
     </div>
 </div>
 
+<!-------------------------------------------------------animal claassifier------------------------------------------------>
 <!-- Cat and Dog Classifier Project -->
 <div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
     <h3>
@@ -173,6 +178,59 @@
         <li>Data Augmentation: Improved generalization via augmentation techniques.</li>
     </ul>
 </div>
+
+
+
+
+
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <!-- Chat Application Project -->
+    <div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
+        <h3>
+            <a href="https://github.com/YOUR_GITHUB/chat-app" target="_blank">Real-Time Chat Application</a>
+        </h3>
+        <!-- Badges -->
+        <div>
+            <a href="https://github.com/YOUR_GITHUB/chat-app" target="_blank">
+                <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Logo"/>
+            </a>
+            <a href="https://github.com/YOUR_GITHUB/chat-app" target="_blank">
+                <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Logo"/>
+            </a>
+            <a href="https://github.com/YOUR_GITHUB/chat-app" target="_blank">
+                <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Logo"/>
+            </a>
+            <a href="https://github.com/YOUR_GITHUB/chat-app" target="_blank">
+                <img src="https://img.shields.io/badge/TailwindCSS-%234B5563.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Logo"/>
+            </a>
+            <a href="https://github.com/YOUR_GITHUB/chat-app" target="_blank">
+                <img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO Logo"/>
+            </a>
+            <a href="https://github.com/YOUR_GITHUB/chat-app" target="_blank">
+                <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Logo"/>
+            </a>
+        </div>
+        <p>A real-time chat application built with Node.js, Express, React, and Socket.IO, featuring:</p>
+        <ul>
+            <li><strong>Unique User IDs:</strong> Users get a system-generated ID like Discord.</li>
+            <li><strong>Real-Time Messaging:</strong> Chat instantly using WebSockets.</li>
+            <li><strong>Modern UI:</strong> Inspired by WhatsApp Web, styled with TailwindCSS.</li>
+            <li><strong>Scalable Backend:</strong> Built with Express.js and MongoDB.</li>
+            <li><strong>Deployment Ready:</strong> Hosted on Railway (Backend) & Netlify (Frontend).</li>
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
 
 ---
 
