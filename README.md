@@ -181,7 +181,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
         <h3>
-            <a href="https://github.com/YOUR_GITHUB/chat-app" target="_blank">Real-Time Chat Application</a>
+            <a href="https://github.com/YOUR_GITHUB/chat-app" target="_blank">Anonymous Chat Application</a>
         </h3>
         <!-- Badges -->
         <div>
