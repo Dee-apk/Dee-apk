@@ -11,7 +11,7 @@
 <ul>
   <p>
   <li>
-  <a href="https://linkedin.com/in/deepak-apk/" target="blank">
+ <!-- <a href="https://linkedin.com/in/deepak-apk/" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: auto; height: 20px; font-family: 'Poppins', sans-serif;"/>
   </a>
   <a href="https://www.instagram.com/your-instagram-handle/" target="blank">
@@ -19,7 +19,7 @@
   </a>
  <a href="https://twitter.com/your-twitter-handle" target="blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" style="width: auto; height: 20px; font-family: 'Poppins', sans-serif;" />
-  </a>
+  </a>  -->
 
 </li>
 <li>
