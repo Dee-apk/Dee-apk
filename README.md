@@ -128,13 +128,6 @@
             </a>
         </div>
         <p>A simple weather application built with Laravel, allowing users to check real-time weather for any city or country using the OpenWeather API. The app features a clean UI and provides key weather details like temperature, humidity, and conditions.</p>
-        <h4><strong>Language & Framework:</strong></h4>
-        <ul>
-            <li>Backend: Laravel (PHP)</li>
-            <li>Frontend: Blade templates, Tailwind CSS</li>
-            <li>API: OpenWeather API</li>
-            <li>Database: MySQL</li>
-        </ul>
         <h4><strong>Features:</strong></h4>
         <ul>
             <li>Fetch real-time weather data</li>
