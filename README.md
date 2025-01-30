@@ -39,9 +39,6 @@
 <a href="https://reactjs.org/" target="blank">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" style="width: auto; height: 28px; font-family: 'Poppins', sans-serif;" />
 </a>
-<a href="https://babeljs.io/" target="blank">
-  <img src="https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white" alt="Babel" style="width: auto; height: 28px; font-family: 'Poppins', sans-serif;" />
-</a>
 <a href="https://tailwindcss.com/" target="blank">
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="width: auto; height: 28px; font-family: 'Poppins', sans-serif;" />
 </a>
