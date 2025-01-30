@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">A passionate developer</h3>
 <h4 align="center">Portfolio website-https://deepakteam.netlify.app/<h4>
-<h4 align="center"><h4 align="center">Anonymous Chat Application-https://chatunknown.netlify.app/<h4>
+<h4 align="center">Anonymous Chat Application-https://chatunknown.netlify.app/<h4>
 
-<h4 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Chromium_Incognito_Mode.svg" width="24" height="24" />
-  Anonymous Chat Application - <a href="https://chatunknown.netlify.app/">chatunknown.netlify.app</a>
-</h4>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
-
-
+<h4 align="center"><i class="fas fa-user-secret"></i> Anonymous Chat Application - https://chatunknown.netlify.app/</h4>
 
 ---
 
