@@ -107,72 +107,6 @@
         </ul>
     </div>
 <div>    
-<!----------------------------------------------------- Weather App Project ---------------------------------------------->
-    <div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
-        <h3>
-            <a href="https://github.com/Dee-apk/PHP-Laravel-app-weather-" target="_blank">Weather App</a>
-        </h3>
-        <!-- Badges -->
-        <div>
-            <a href="https://github.com/deepak-apk/weather-app" target="_blank">
-                <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Logo"/>
-            </a>
-            <a href="https://github.com/deepak-apk/weather-app" target="_blank">
-                <img src="https://img.shields.io/badge/TailwindCSS-%234B5563.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Logo"/>
-            </a>
-            <a href="https://github.com/deepak-apk/weather-app" target="_blank">
-                <img src="https://img.shields.io/badge/OpenWeather-007BFF.svg?style=for-the-badge&logo=OpenWeather&logoColor=white" alt="OpenWeather API Logo"/>
-            </a>
-            <a href="https://github.com/deepak-apk/weather-app" target="_blank">
-                <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Logo"/>
-            </a>
-        </div>
-        <p>A simple weather application built with Laravel, allowing users to check real-time weather for any city or country using the OpenWeather API. The app features a clean UI and provides key weather details like temperature, humidity, and conditions.</p>
-        <h4><strong>Features:</strong></h4>
-        <ul>
-            <li>Fetch real-time weather data</li>
-            <li>User-friendly interface</li>
-            <li>API error handling for invalid inputs</li>
-        </ul>
-    </div>
-</div>
-
-<!-------------------------------------------------------animal claassifier------------------------------------------------>
-<!-- Cat and Dog Classifier Project -->
-<div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
-    <h3>
-        <a href="https://github.com/Dee-apk/Animal-classifier-hosted" target="_blank">Animal Classifier AI</a>
-    </h3>
-    <!-- Badges -->
-    <div>
-        <a href="https://github.com/deepak-apk/project1" target="_blank">
-            <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Logo"/>
-        </a>
-        <a href="https://github.com/deepak-apk/project1" target="_blank">
-            <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Logo"/>
-        </a>
-        <a href="https://github.com/deepak-apk/project1" target="_blank">
-            <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Logo"/>
-        </a>
-    </div>
-    <p>A deep learning model that accurately classifies images of cats and dogs with 83.7% accuracy using TensorFlow and Keras. The model employs a Convolutional Neural Network (CNN) to process image data.</p>
-    <h4><strong>Technologies Used:</strong></h4>
-    <ul>
-        <li><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Logo"/> TensorFlow & Keras: For model development and training.</li>
-        <li><img src="https://img.shields.io/badge/ImageDataGenerator-%23FF9800.svg?style=for-the-badge" alt="ImageDataGenerator Logo"/> ImageDataGenerator: Real-time image augmentation for enhancing dataset diversity.</li>
-        <li><img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Logo"/> Flask: A lightweight web interface for uploading images and receiving predictions.</li>
-        <li><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo"/> Python: For overall project implementation.</li>
-        <li><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Logo"/> Pandas: For data manipulation and preprocessing.</li>
-    </ul>
-    <h4><strong>Features:</strong></h4>
-    <ul>
-        <li>High Accuracy: 83.7% accuracy on test data.</li>
-        <li>Real-Time Predictions: Instant predictions for uploaded images.</li>
-        <li>Data Augmentation: Improved generalization via augmentation techniques.</li>
-    </ul>
-</div>
-
-
 
 
 
@@ -214,6 +148,78 @@
         </ul>
     </div>
 </div>
+
+
+
+<!-------------------------------------------------------animal claassifier------------------------------------------------>
+<!-- Cat and Dog Classifier Project -->
+<div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
+    <h3>
+        <a href="https://github.com/Dee-apk/Animal-classifier-hosted" target="_blank">Animal Classifier AI</a>
+    </h3>
+    <!-- Badges -->
+    <div>
+        <a href="https://github.com/deepak-apk/project1" target="_blank">
+            <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Logo"/>
+        </a>
+        <a href="https://github.com/deepak-apk/project1" target="_blank">
+            <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Logo"/>
+        </a>
+        <a href="https://github.com/deepak-apk/project1" target="_blank">
+            <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Logo"/>
+        </a>
+    </div>
+    <p>A deep learning model that accurately classifies images of cats and dogs with 83.7% accuracy using TensorFlow and Keras. The model employs a Convolutional Neural Network (CNN) to process image data.</p>
+    <h4><strong>Technologies Used:</strong></h4>
+    <ul>
+        <li><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Logo"/> TensorFlow & Keras: For model development and training.</li>
+        <li><img src="https://img.shields.io/badge/ImageDataGenerator-%23FF9800.svg?style=for-the-badge" alt="ImageDataGenerator Logo"/> ImageDataGenerator: Real-time image augmentation for enhancing dataset diversity.</li>
+        <li><img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Logo"/> Flask: A lightweight web interface for uploading images and receiving predictions.</li>
+        <li><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo"/> Python: For overall project implementation.</li>
+        <li><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Logo"/> Pandas: For data manipulation and preprocessing.</li>
+    </ul>
+    <h4><strong>Features:</strong></h4>
+    <ul>
+        <li>High Accuracy: 83.7% accuracy on test data.</li>
+        <li>Real-Time Predictions: Instant predictions for uploaded images.</li>
+        <li>Data Augmentation: Improved generalization via augmentation techniques.</li>
+    </ul>
+</div>
+<!----------------------------------------------------- Weather App Project ---------------------------------------------->
+    <div style="border: 1px solid #ddd; padding: 20px; width: 48%; background-color: #f9f9f9;">
+        <h3>
+            <a href="https://github.com/Dee-apk/PHP-Laravel-app-weather-" target="_blank">Weather App</a>
+        </h3>
+        <!-- Badges -->
+        <div>
+            <a href="https://github.com/deepak-apk/weather-app" target="_blank">
+                <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Logo"/>
+            </a>
+            <a href="https://github.com/deepak-apk/weather-app" target="_blank">
+                <img src="https://img.shields.io/badge/TailwindCSS-%234B5563.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Logo"/>
+            </a>
+            <a href="https://github.com/deepak-apk/weather-app" target="_blank">
+                <img src="https://img.shields.io/badge/OpenWeather-007BFF.svg?style=for-the-badge&logo=OpenWeather&logoColor=white" alt="OpenWeather API Logo"/>
+            </a>
+            <a href="https://github.com/deepak-apk/weather-app" target="_blank">
+                <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Logo"/>
+            </a>
+        </div>
+        <p>A simple weather application built with Laravel, allowing users to check real-time weather for any city or country using the OpenWeather API. The app features a clean UI and provides key weather details like temperature, humidity, and conditions.</p>
+        <h4><strong>Features:</strong></h4>
+        <ul>
+            <li>Fetch real-time weather data</li>
+            <li>User-friendly interface</li>
+            <li>API error handling for invalid inputs</li>
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+
 
 
 
