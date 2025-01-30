@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">A passionate developer</h3>
 <h4 align="center">Portfolio website-https://deepakteam.netlify.app/<h4>
-<h4 align="center">![Incognito Mode](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chromium_Incognito_Mode.svg/512px-Chromium_Incognito_Mode.svg.png)
+<h4 align="center">![Incognito](https://img.shields.io/badge/Incognito-%F0%9F%95%B6%EF%B8%8F-black?style=for-the-badge)
+
 Chat Application-https://chatunknown.netlify.app/<h4>
 
 
