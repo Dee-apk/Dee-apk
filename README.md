@@ -3,8 +3,9 @@
 <h4 align="center">Portfolio website-https://deepakteam.netlify.app/<h4>
 <h4 align="center">Anonymous Chat Application-https://chatunknown.netlify.app/<h4>
 
+
 <a href="https://en.wikipedia.org/wiki/Private_browsing" target="blank">
-  <img src="https://img.shields.io/badge/Incognito-Black?logo=googledrive&logoColor=white" alt="Incognito Mode" style="width: auto; height: 28px; font-family: 'Poppins', sans-serif;" />
+  <img src="[https://img.shields.io/badge/Incognito-Black?logo=googledrive&logoColor=white](https://www.flaticon.com/free-icon/incognito_3033222?term=incognito&page=1&position=1&origin=tag&related_id=3033222)" alt="Incognito Mode" style="width: auto; height: 28px; font-family: 'Poppins', sans-serif;" />
 </a>
 
 
