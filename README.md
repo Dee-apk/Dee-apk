@@ -3,9 +3,7 @@
 <h4 align="center">Portfolio website-https://deepakteam.netlify.app/<h4>
 <h4 align="center">Anonymous Chat Application-https://chatunknown.netlify.app/<h4>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
-<h4 align="center"><i class="fas fa-user-secret"></i> Anonymous Chat Application - https://chatunknown.netlify.app/</h4>
+<h4 align="center"><img src="https://via.placeholder.com/20" alt="Incognito Icon" width="20" height="20"> Anonymous Chat Application - https://chatunknown.netlify.app/</h4>
 
 ---
 
