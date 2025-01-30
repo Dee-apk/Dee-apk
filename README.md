@@ -213,9 +213,9 @@
         </div>
         <p>A real-time chat application built with Node.js, Express, React, and Socket.IO, featuring:</p>
         <ul>
-            <li><strong>Unique User IDs:</strong> Users get a system-generated ID like Discord.</li>
-            <li><strong>Real-Time Messaging:</strong> Chat instantly using WebSockets.</li>
-            <li><strong>Modern UI:</strong> Inspired by WhatsApp Web, styled with TailwindCSS.</li>
+            <li><strong>Unique User IDs:</strong> Users get a system-generated ID.</li>
+            <li><strong>Real-Time Messaging:</strong> Instant message delivery using Socket.IO</li>
+            <li><strong>Modern UI:</strong> Minimal & Responsive UI: Styled with TailwindCSS.</li>
             <li><strong>Scalable Backend:</strong> Built with Express.js and MongoDB.</li>
             <li><strong>Deployment Ready:</strong> Hosted on Railway (Backend) & Netlify (Frontend).</li>
         </ul>
