@@ -4,7 +4,9 @@
 <h4 align="center"><h4 align="center">Anonymous Chat Application-https://chatunknown.netlify.app/<h4>
 
 <h4 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Chromium_Incognito_Mode.svg" width="20" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
+    <path fill="black" d="M12 2c-1.104 0-2 .896-2 2h-7.5a.5.5 0 0 0 0 1h1.424l1.719 5.157A4.502 4.502 0 0 0 5.5 14c0 2.485 2.015 4.5 4.5 4.5S14.5 16.485 14.5 14c0-.988-.322-1.901-.869-2.642L15.35 6h1.152l1.718 5.157A4.502 4.502 0 0 0 17.5 14c0 2.485 2.015 4.5 4.5 4.5s4.5-2.015 4.5-4.5c0-.988-.322-1.901-.869-2.642L23.351 6h1.149a.5.5 0 0 0 0-1H12c0-1.104-.896-2-2-2zm-5 9.5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5S5.5 13.83 5.5 13s.67-1.5 1.5-1.5zm10 0c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5S14.5 13.83 14.5 13s.67-1.5 1.5-1.5z"/>
+  </svg>
   Anonymous Chat Application - <a href="https://chatunknown.netlify.app/">chatunknown.netlify.app</a>
 </h4>
 
